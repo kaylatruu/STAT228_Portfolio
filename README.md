@@ -6,3 +6,5 @@ This is my data science portfolio.
 **Current Major in Nursing & Minors in Psychology and Data Science**
 
 Simmons University
+
+[Project 1](https://kaylatruu.github.io/STAT228_Portfolio/Projects/portfolio-main.html)
